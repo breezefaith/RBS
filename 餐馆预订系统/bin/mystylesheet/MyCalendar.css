@@ -1,0 +1,34 @@
+.dayLabel {
+	/*-fx-text-fill: #006464;*/
+	-fx-background-color: #ffffff;
+	-fx-border-radius: 20;
+	-fx-background-radius: 20;
+	/*-fx-border-color:#000000;*/
+	/*-fx-padding: 5;*/
+	-fx-width: 20px;
+}
+.reservationlabel {
+	/*-fx-text-fill: #006464;*/
+	-fx-background-color: #98c9fe;
+	-fx-border-radius: 10;
+	-fx-background-radius: 10;
+	-fx-width: 20px;
+}
+.dayvbox {
+	/*-fx-text-fill: #fd9dcf;*/
+	-fx-background-color: #f8f8f8;
+	/*-fx-border-radius: 20;*/
+	/*-fx-background-radius: 20;*/
+	-fx-padding: 5;
+	-fx-width: 20px;
+	-fx-border-color: #343137;
+	-fx-border-width: 0.1px;
+}
+.titlelabel{
+	-fx-border-color: #343137;
+	-fx-border-width: 0.1px;
+}
+.gridpane{
+	-fx-border-color: #343137;
+	-fx-border-width: 0.1px;
+}
